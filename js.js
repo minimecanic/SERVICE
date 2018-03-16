@@ -1,7 +1,3 @@
 function hello(){
-alert("ALERT" ){
-prompt("")
-
-}
-  
+alert("ALERT")
 }
