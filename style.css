@@ -8,9 +8,11 @@ font-size:15px;
 color: #FFFFFF;     
 background-size: cover;
 background-repeat: no-repeat;
+text-align:center;
 }
 h1{
 font-size:55px;
 color:orange;
 text-decoration:underline;  
+text-align:center;  
 }
