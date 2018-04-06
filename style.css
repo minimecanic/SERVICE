@@ -10,6 +10,7 @@ background-size: cover;
 background-repeat: no-repeat;
 }
 h1{
-font-size:32px;
+font-size:55px;
 color:orange;
+text-decoration:underline;  
 }
