@@ -26,8 +26,9 @@ border:7px solid black ;
 padding:5px;
 }
 footer{
+ text-align:right;
 background-color:#bebebe;  
-font-size:12px;
+font-size:11px;
 color:#000000;
 padding:2px; 
 }
