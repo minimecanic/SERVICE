@@ -32,3 +32,39 @@ font-size:11px;
 color:#000000;
 padding:2px; 
 }
+ul{
+list-style-type: none;
+margin:10px;
+overflow:hidden;
+background-color:#3A3A3AFF;
+text-align:center;
+border:7px solid black ;
+padding:5px;
+}
+li{
+float:right;
+padding-right:35px;
+}
+ li a{
+border:none;
+text-align: center;
+display:block;
+text-decoration:underline;
+color:orange;
+font-size: 35px;
+padding: 7px 8px;
+}
+li a:hover:not(.active){
+background-color:gray;
+padding:none;
+}
+.active{
+background-color:black;
+}
+button{
+transform:100px;
+}
+#menu{
+padding left:none;
+ padding rihght:100px;
+}
